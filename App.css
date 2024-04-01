@@ -5,14 +5,5 @@
   text-align: center;
 }
 
-@media screen and (max-width: 600px) {
-  .App {
-    flex-direction: column;
-  }
-  .StartScreen, .Game, .GameOver {
-    width: 100%;
-    margin: 10px;
-    font-size: 10px;
-  }
-}
+
 
